@@ -17,7 +17,6 @@ with open('seek.json') as file:
     # Convert the file contents to JSON
     documents = json.loads(file_contents)
 
-client = QdrantClient(":memory:")
 
 # Create collection to store books
 client.recreate_collection(
@@ -47,11 +46,17 @@ hits = client.search(
     query_vector=encoder.encode(keyword).tolist(),
     limit=10,
     query_filter=models.Filter(
-        should=[
+        must=[
+            models.FieldCondition(
+                key="exp",
+                range=models.Range(
+                    gte=10
+                )
+            ),
             models.FieldCondition(
                 key="star",
                 range=models.Range(
-                    gte=2
+                    gte=3
                 )
             )
         ]

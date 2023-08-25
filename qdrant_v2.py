@@ -17,8 +17,6 @@ with open('seek.json') as file:
     # Convert the file contents to JSON
     documents = json.loads(file_contents)
 
-client = QdrantClient(":memory:")
-
 # Create collection to store books
 client.recreate_collection(
     collection_name="my_books2",
