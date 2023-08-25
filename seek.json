@@ -1,0 +1,262 @@
+[
+    {
+        "id": 0,
+        "title": "giảng dạy tiếng Anh",
+        "desc": "tôi có kinh nghiệm giảng dạy tiếng Anh cho mọi trình độ",
+        "exp": 7,
+        "cost": {
+            "price": 3,
+            "unit": "Per hour",
+            "concurence": "USD"
+        },
+        "reputation_level": 2,
+        "star": 2
+    },
+    {
+        "id": 1,
+        "title": "gia sư toán cấp 2",
+        "desc": "tôi có 5 năm kinh nghiệm, dạy cho hơn 100 học sinh",
+        "exp": 1,
+        "cost": {
+            "price": 10,
+            "unit": "Per hour",
+            "concurence": "USD"
+        },
+        "reputation_level": 0,
+        "star": 0
+    },
+    {
+        "id": 2,
+        "title": "giúp viết CV",
+        "desc": "tôi giúp viết CV chuyên nghiệp, tăng cơ hội tìm việc",
+        "exp": 10,
+        "cost": {
+            "price": 10,
+            "unit": "Per hour",
+            "concurence": "USD"
+        },
+        "reputation_level": 0,
+        "star": 0
+    },
+    {
+        "id": 3,
+        "title": "thợ sửa điều hòa",
+        "desc": "tôi sửa chữa và bảo dưỡng điều hòa, đảm bảo hoạt động tốt",
+        "exp": 9,
+        "cost": {
+            "price": 10,
+            "unit": "Per hour",
+            "concurence": "USD"
+        },
+        "reputation_level": 0,
+        "star": 0
+    },
+    {
+        "id": 4,
+        "title": "dịch vụ trang điểm",
+        "desc": "tôi trang điểm cho cô dâu, dự tiệc và các buổi chụp ảnh",
+        "exp": 17,
+        "cost": {
+            "price": 10,
+            "unit": "Per hour",
+            "concurence": "USD"
+        },
+        "reputation_level": 0,
+        "star": 0
+    },
+    {
+        "id": 5,
+        "title": "thợ sửa máy giặt",
+        "desc": "tôi sửa chữa máy giặt, khắc phục các sự cố thường gặp",
+        "exp": 12,
+        "cost": {
+            "price": 5,
+            "unit": "Per hour",
+            "concurence": "USD"
+        },
+        "reputation_level": 1,
+        "star": 1
+    },
+    {
+        "id": 6,
+        "title": "thợ sửa điều hòa",
+        "desc": "tôi sửa chữa và bảo dưỡng điều hòa, đảm bảo hoạt động tốt",
+        "exp": 9,
+        "cost": {
+            "price": 200000,
+            "unit": "Per hour",
+            "concurence": "VND"
+        },
+        "reputation_level": 3,
+        "star": 3
+    },
+    {
+        "id": 7,
+        "title": "giảng dạy piano",
+        "desc": "tôi giảng dạy piano cho mọi độ tuổi, từ cơ bản đến nâng cao",
+        "exp": 13,
+        "cost": {
+            "price": 10,
+            "unit": "Per hour",
+            "concurence": "USD"
+        },
+        "reputation_level": 0,
+        "star": 0
+    },
+    {
+        "id": 8,
+        "title": "dịch vụ thiết kế website",
+        "desc": "tôi thiết kế website chuyên nghiệp, tùy chỉnh theo yêu cầu",
+        "exp": 5,
+        "cost": {
+            "price": 5,
+            "unit": "Per hour",
+            "concurence": "USD"
+        },
+        "reputation_level": 1,
+        "star": 1
+    },
+    {
+        "id": 9,
+        "title": "sửa điện nước",
+        "desc": "tôi sửa điện nước rất tốt, sửa cả điện gia đình lẫn công trình",
+        "exp": 0,
+        "cost": {
+            "price": 3,
+            "unit": "Per hour",
+            "concurence": "USD"
+        },
+        "reputation_level": 2,
+        "star": 2
+    },
+    {
+        "id": 10,
+        "title": "dịch vụ chụp ảnh",
+        "desc": "tôi chụp ảnh chân dung, cưới hỏi, sự kiện và sản phẩm",
+        "exp": 11,
+        "cost": {
+            "price": 3,
+            "unit": "Per hour",
+            "concurence": "USD"
+        },
+        "reputation_level": 2,
+        "star": 2
+    },
+    {
+        "id": 11,
+        "title": "thợ sửa ống nước",
+        "desc": "tôi sửa ống nước, xử lý các vấn đề liên quan đến hệ thống nước",
+        "exp": 6,
+        "cost": {
+            "price": 5,
+            "unit": "Per hour",
+            "concurence": "USD"
+        },
+        "reputation_level": 1,
+        "star": 1
+    },
+    {
+        "id": 12,
+        "title": "giảng dạy tiếng Anh",
+        "desc": "tôi có kinh nghiệm giảng dạy tiếng Anh cho mọi trình độ",
+        "exp": 7,
+        "cost": {
+            "price": 10,
+            "unit": "Per hour",
+            "concurence": "USD"
+        },
+        "reputation_level": 0,
+        "star": 0
+    },
+    {
+        "id": 13,
+        "title": "sửa điện nước",
+        "desc": "tôi sửa điện nước rất tốt, sửa cả điện gia đình lẫn công trình",
+        "exp": 0,
+        "cost": {
+            "price": 3,
+            "unit": "Per hour",
+            "concurence": "USD"
+        },
+        "reputation_level": 2,
+        "star": 2
+    },
+    {
+        "id": 14,
+        "title": "dịch vụ làm vườn",
+        "desc": "tôi làm vườn, chăm sóc cây cối và thiết kế không gian xanh",
+        "exp": 8,
+        "cost": {
+            "price": 200000,
+            "unit": "Per hour",
+            "concurence": "VND"
+        },
+        "reputation_level": 3,
+        "star": 3
+    },
+    {
+        "id": 15,
+        "title": "giúp viết CV",
+        "desc": "tôi giúp viết CV chuyên nghiệp, tăng cơ hội tìm việc",
+        "exp": 10,
+        "cost": {
+            "price": 3,
+            "unit": "Per hour",
+            "concurence": "USD"
+        },
+        "reputation_level": 2,
+        "star": 2
+    },
+    {
+        "id": 16,
+        "title": "thợ sửa tivi",
+        "desc": "tôi sửa chữa tivi, khắc phục các sự cố hiển thị và âm thanh",
+        "exp": 18,
+        "cost": {
+            "price": 200000,
+            "unit": "Per hour",
+            "concurence": "VND"
+        },
+        "reputation_level": 3,
+        "star": 3
+    },
+    {
+        "id": 17,
+        "title": "thợ sửa xe máy",
+        "desc": "tôi sửa xe máy chuyên nghiệp, có thể sửa các loại xe",
+        "exp": 3,
+        "cost": {
+            "price": 10,
+            "unit": "Per hour",
+            "concurence": "USD"
+        },
+        "reputation_level": 0,
+        "star": 0
+    },
+    {
+        "id": 18,
+        "title": "giảng dạy piano",
+        "desc": "tôi giảng dạy piano cho mọi độ tuổi, từ cơ bản đến nâng cao",
+        "exp": 13,
+        "cost": {
+            "price": 5,
+            "unit": "Per hour",
+            "concurence": "USD"
+        },
+        "reputation_level": 1,
+        "star": 1
+    },
+    {
+        "id": 19,
+        "title": "thợ sửa tivi",
+        "desc": "tôi sửa chữa tivi, khắc phục các sự cố hiển thị và âm thanh",
+        "exp": 18,
+        "cost": {
+            "price": 10,
+            "unit": "Per hour",
+            "concurence": "USD"
+        },
+        "reputation_level": 0,
+        "star": 0
+    }
+]
